@@ -1,0 +1,2 @@
+colocar texto na frente | rquivo arquivoCriado.txt.
+Adicionando texto a minha aplicação.
